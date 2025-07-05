@@ -1,0 +1,36 @@
+    body{
+    font-family: Arial;
+    }
+    img{
+        max-width: 100%;
+    }
+    header{
+        background-image:  url(./img/img/banner.jpg);
+        background-size: cover;
+        height: 300px;
+        color: aliceblue;
+        text-align: center; 
+    }
+    .btn{
+        background-color: rgb(10, 10, 10);
+        color: rgb(247, 244, 244);
+        text-decoration: none;
+        font-family: serif;
+        font-size: 12px;
+        padding: 10px;
+    }
+    p{
+        font-family:'Gill Sans';
+    }
+     h1{
+        font-family: 'Times New Roman';
+    }
+     h2{
+        font-family: initial;
+    }
+     h3{
+        font-family: 'Courier New';
+    }
+     h4{
+        font-family: 'Lucida Sans';
+    } 
